@@ -1,0 +1,11 @@
+.line {
+    border-bottom: 1px solid black;
+    max-width: 900px;
+    margin-top: 10px;
+  }
+
+  @media screen and (max-width: 768px) {
+      .card {
+          width: 90% !important;
+      }
+  }
